@@ -32,3 +32,14 @@ Step 4: Determine the gross amount payable by adding the GST amount to the trans
 - Test case 2
 <img width="359" alt="invoice_error" src="https://user-images.githubusercontent.com/93705673/235346306-50af627e-6aeb-4eab-a258-a5ae6dd72e48.png"/>
 
+## Question 2 - Description
+- Write a program in Python to print the number of unique letters in a string. Only new letters from the string should be counted and not duplicates.
+> Solution
+- Test case 1
+<img width="359" alt="uniq1" src="https://user-images.githubusercontent.com/93705673/235346889-3a5aac35-33bd-464d-be17-729c16c8e724.png"/>
+
+
+- Test case 2
+<img width="359" alt="uniq2" src="https://user-images.githubusercontent.com/93705673/235346892-2bc86e02-20b6-46d5-ab49-0a2e78ca6788.png"/>
+
+
